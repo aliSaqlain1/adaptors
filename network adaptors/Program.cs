@@ -10,6 +10,7 @@ namespace network_adaptors
     {
         static void Main(string[] args)
         {
+            //edited in github for practice
             ManagementScope wmiSrv;
             ManagementObjectSearcher objSearcher;
             ManagementObjectCollection objColl;
